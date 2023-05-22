@@ -18,3 +18,8 @@ Iterate through 2d array and plot side view
 - drawPoint(x, f(x,y))
 Draw axes and graph labels
 ```
+# Some Cool Graphs
+## -1/(x*x+y*y) 
+[![name](https://raw.githubusercontent.com/Leek727/PLTWProblem4/main/demo/horn.png?token=GHSAT0AAAAAACBNUZ2CNPMRBMDA5RHWQDCGZDL7H4Q)]()
+## x*y*y*y-y*x*x*x
+[![name](https://raw.githubusercontent.com/Leek727/PLTWProblem4/main/demo/spin.png?token=GHSAT0AAAAAACBNUZ2DPLTZJRXQ3F3L7C3CZDL7JIQ)]()
